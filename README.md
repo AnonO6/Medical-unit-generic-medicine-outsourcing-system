@@ -45,3 +45,7 @@ This problem statement outlines the need to optimize the sourcing of medicines f
   This will create .class files for all classes
 - Run Main.java using
   _java Main_
+
+  # CLASS DIAGRAM
+  ![ClassDiagram_Medical_Unit](https://github.com/AnonO6/Medical-unit-generic-medicine-outsourcing-system/assets/124311066/6421f5e5-6354-4c3c-bbea-f313d8051e08)
+
