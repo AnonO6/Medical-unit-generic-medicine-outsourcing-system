@@ -1,0 +1,3 @@
+interface MedicalObserver {
+    void updateAvailability();
+}
