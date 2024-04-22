@@ -36,3 +36,12 @@ This problem statement outlines the need to optimize the sourcing of medicines f
 2. Decorator Pattern - For dynamically adding additional salts to a base medicine when it's necessary to match a prescribed combination.
 3. Factory Pattern - For creating instances of medicine regardless of its type (Generic or Private).
 4. Observer Pattern - For sending notifications to the medical unit when certain actions occur, such as availability checks and shipments.
+
+# HOW TO RUN
+
+- Open project in code editor of your choice, make sure you have jdk installed
+- Compile Main.java using
+  _javac Main.java_
+  This will create .class files for all classes
+- Run Main.java using
+  _java Main_
